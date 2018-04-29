@@ -1,0 +1,1 @@
+This folder is not relevant to Webpack, just use to store a file used in `../README.md`
