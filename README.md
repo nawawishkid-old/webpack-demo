@@ -1,6 +1,7 @@
 # My first Webpack
 ## Development Guide
 <small>Previous: [Output Management](https://github.com/nawawishkid/webpack-demo/tree/output-management)</small>
+<small>From: https://webpack.js.org/guides/development/</small>
 
 ### 1. Debug code ด้วย source map
 จาก branch 'output-management' ถ้า code ในไฟล์ print.js ของเรามี bug มันก็จะขึ้นใน console ว่า bug มากจาก `app.bundle.js` แบบนี้
